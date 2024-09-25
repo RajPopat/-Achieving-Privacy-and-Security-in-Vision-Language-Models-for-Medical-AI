@@ -1,2 +1,2 @@
-# -Achieving-Privacy-and-Security-in-Vision-Language-Models-for-Medical-AI
+# Achieving-Privacy-and-Security-in-Vision-Language-Models-for-Medical-AI
  Fine-tuned Florence VLLM on medical datasets (PathVQA, VQA-RED) to surpass baseline accuracy for VQA task.  Implemented federated learning across multiple clients, optimizing model performance despite resource constraints.  Currently pioneering research on privacy and security attacks and defenses in Vision-Language Models for medical data.
